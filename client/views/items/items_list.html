@@ -1,0 +1,9 @@
+<template name="itemsList">
+    <div>
+        {{#each items}}
+        <div>
+            {{title}}, {{author}}, {{prettifyDate created}}
+        </div>
+        {{/each}}
+    </div>
+</template>
