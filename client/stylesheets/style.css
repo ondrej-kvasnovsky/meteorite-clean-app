@@ -2,3 +2,7 @@ body {
     padding-top: 70px;
     padding-bottom: 30px;
 }
+
+.app-spinner {
+    padding-top: 20px;
+}
